@@ -52,7 +52,7 @@ class Item(Base):
         return {
             'name': self.name,
             'description': self.description,
-            'item_category': self.categories.name,
+            'item_category': self.item_category,
             
             }
 
