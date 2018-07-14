@@ -268,7 +268,7 @@ def editItem(category_id, item_id):
     """ # Task 2 : Create route for editItem function here """
     # Check if user is logged in
     if 'username' not in login_session:
-	    return redirect('/login')
+        return redirect('/login')
     else:
         # Get all categories
         categories = session.query(Category).all()
