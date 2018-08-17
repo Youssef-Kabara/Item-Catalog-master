@@ -23,4 +23,4 @@ Item Catalog Application :
 	4- Go to your browser and type " localhost:8080 " 
 	5- Now you can surf the application ( login , add , edit , delete ).
 
-Written By : oMnia Elsayed ( omniamorsi2020@gmail.com )
+
